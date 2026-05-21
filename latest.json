@@ -1,18 +1,18 @@
 {
-  "version": "1.5.0",
-  "notes": "AxisPro v1.5.0",
-  "pub_date": "2026-05-21T12:38:41Z",
+  "version": "1.6.0",
+  "notes": "AxisPro v1.6.0",
+  "pub_date": "2026-05-21T13:55:47Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/brandpro-ltda/iaxispro/releases/download/v1.5.0/AxisPro_1.5.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdlIyNlpFblJBa2tnd3JlRkdYQk51VStIZzd6WWZoZ3NCaTVJc0lsUytVNDFzV0tvK0VzYms1RmFjQzFGRSt6Ni96SzFtMmZ2NnVtcTNmQVVwekxWTVdUT0NzYW1CU3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzY3MDU0CWZpbGU6QXhpc1Byb18xLjUuMF94NjQtc2V0dXAuZXhlCmROMjAvaHdTUzZIcmRFSGs5UlN6eDBTWmZFMUVKOHpjMXd1T0ppS2V6N3UrcGJBZ3BLUTVJbHN6c2dKb3BoUmVTMUg0blJkcVhvUTZIcHJqMlRGc0NnPT0K"
+      "url": "https://github.com/brandpro-ltda/iaxispro/releases/download/v1.6.0/AxisPro_1.6.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdlIyNlpFblJBa2dyN3liNWxLcWtVRy83ZElyaEhwSVBBRjN6dXVSNVY2d0VBOTQ2cFdjbXFOVGlSbEpSeGpaU0JZZ2pTYmtNVkRrT1pNQm1uZHJxOU5yeGRqODdRZ0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzcxNTgxCWZpbGU6QXhpc1Byb18xLjYuMF94NjQtc2V0dXAuZXhlCnk4VVZQenJYKzJXdGxxZU1UeC9seUxPQVNyTkhSN3U3dmtmeWZCZkdaOGZvMTBtdDF6OUVzZmorNWhXcU90cG5Ra0JFZHpaazhDbGh5OFJMeXQxOURnPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/brandpro-ltda/iaxispro/releases/download/v1.5.0/AxisPro_1.5.0_aarch64.dmg",
+      "url": "https://github.com/brandpro-ltda/iaxispro/releases/download/v1.6.0/AxisPro_1.6.0_aarch64.dmg",
       "signature": ""
     },
     "darwin-x86_64": {
-      "url": "https://github.com/brandpro-ltda/iaxispro/releases/download/v1.5.0/AxisPro_1.5.0_aarch64.dmg",
+      "url": "https://github.com/brandpro-ltda/iaxispro/releases/download/v1.6.0/AxisPro_1.6.0_aarch64.dmg",
       "signature": ""
     }
   }
