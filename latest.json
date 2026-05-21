@@ -1,0 +1,11 @@
+{
+    "version": "1.5.0",
+    "pub_date": "2026-05-21T08:11:11Z",
+    "notes": "AxisPro v1.5.0 — OpenInterpreter executor, File Workspace, Mesa Redonda automatica, 12 personas-ancora + skill-modes, StudioPanel com preview ao vivo, geracao de imagem, templates de landing, Apify integration, auditoria de URL/doc/pasta, persistencia de contexto global, TracesPanel ao vivo.",
+    "platforms": {
+        "windows-x86_64": {
+            "url": "https://github.com/brandpro-ltda/iaxispro/releases/download/v1.5.0/AxisPro_1.5.0_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdlIyNlpFblJBa2tJWDVwZ3NDeXVaL2J6SXFXMDFCV0NHeWZnZGswKzZEQ2d6ejkycTZEVzQrZ2d4TkcySzVKOUlWcndNVm5WYmdHRGpOam4vSmt0a1FMekNwYytLZFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzUxMDA3CWZpbGU6QXhpc1Byb18xLjUuMF94NjQtc2V0dXAuZXhlCnNRUnFjTFR3OG5XRUM2UkQxWk5hdkpiaDdCL1BKQSswdWlDSWJDT2pVNnRTWVNVOUdTdDZZWFhyZCsrakxTSTZTZ2xtcXNSMjB4SHVvZExZR0xESUF3PT0K"
+        }
+    }
+}
